@@ -113,7 +113,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: pink;
+  color: #ffb727;
 }
 .navbar .dropdown ul {
   display: block;
