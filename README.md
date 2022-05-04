@@ -11,7 +11,11 @@ Used a Web Static App to build website.
 ## Project Status
 This project is complete.
 
-# Room for Improvement
+## Room for Improvement
 To do:
 - Add more projects to the projects tab
 - Evenutally change color scheme
+
+
+## What I Learned
+I learned how to use HTML and CSS to design a fully-functioning website.
