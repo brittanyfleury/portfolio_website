@@ -5,5 +5,4 @@ Personal website I made in Digital Product Management.
 ## General Information
 This website is supposed to showcase my resume, projects and education. My goal is to show this website to recruiters to show my skills in website design. 
 
-## Screenshots
-![Example](./assets/img/screenshot.png)
+![title]("C:\Users\britt\Documents\GitHub\portfolio_website\assets\img\screenshot.PNG")
